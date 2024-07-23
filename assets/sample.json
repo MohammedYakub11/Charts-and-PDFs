@@ -1,0 +1,26 @@
+[
+  {
+    "title": "New Message",
+    "body": "You have received a new message from John."
+  },
+  {
+    "title": "Update Available",
+    "body": "A new update is available for your app."
+  },
+  {
+    "title": "Reminder",
+    "body": "Don't forget your meeting at 10 AM tomorrow."
+  },
+  {
+    "title": "New Message",
+    "body": "You have received a new message from John."
+  },
+  {
+    "title": "Update Available",
+    "body": "A new update is available for your app."
+  },
+  {
+    "title": "Reminder",
+    "body": "Don't forget your meeting at 10 AM tomorrow."
+  }
+]
